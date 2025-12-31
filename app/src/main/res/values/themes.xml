@@ -1,0 +1,9 @@
+﻿<resources xmlns:tools="http://schemas.android.com/tools">
+    
+    <style name="Base.Theme.SOAPCompteApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+
+    <style name="Theme.SOAPCompteApp" parent="Base.Theme.SOAPCompteApp" />
+</resources>
